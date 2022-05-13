@@ -1,0 +1,15 @@
+{
+    "root":"../Dataset",
+    "train":
+    {
+        "pa": "./data/plantapexes.train"
+    },
+    "test_emb":
+    {
+        "pa":"./data/plantapexesval.val"
+    },
+    "test":
+    {
+        "pa":"./data/plantapexestest.val"
+    }
+}
